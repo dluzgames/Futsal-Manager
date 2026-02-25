@@ -1,0 +1,5 @@
+{
+  "name": "Futsal Manager",
+  "description": "A functional CRM for managing futsal team athletes, including registration, stats, and roster management.",
+  "requestFramePermissions": []
+}
